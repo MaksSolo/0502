@@ -1,0 +1,16 @@
+C:\JS\0502\bin\Debug\net5.0\0502.exe
+C:\JS\0502\bin\Debug\net5.0\0502.deps.json
+C:\JS\0502\bin\Debug\net5.0\0502.runtimeconfig.json
+C:\JS\0502\bin\Debug\net5.0\0502.runtimeconfig.dev.json
+C:\JS\0502\bin\Debug\net5.0\0502.dll
+C:\JS\0502\bin\Debug\net5.0\ref\0502.dll
+C:\JS\0502\bin\Debug\net5.0\0502.pdb
+C:\JS\0502\obj\Debug\net5.0\0502.csprojAssemblyReference.cache
+C:\JS\0502\obj\Debug\net5.0\0502.GeneratedMSBuildEditorConfig.editorconfig
+C:\JS\0502\obj\Debug\net5.0\0502.AssemblyInfoInputs.cache
+C:\JS\0502\obj\Debug\net5.0\0502.AssemblyInfo.cs
+C:\JS\0502\obj\Debug\net5.0\0502.csproj.CoreCompileInputs.cache
+C:\JS\0502\obj\Debug\net5.0\0502.dll
+C:\JS\0502\obj\Debug\net5.0\ref\0502.dll
+C:\JS\0502\obj\Debug\net5.0\0502.pdb
+C:\JS\0502\obj\Debug\net5.0\0502.genruntimeconfig.cache
